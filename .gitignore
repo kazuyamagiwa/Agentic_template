@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Vscode stuff
+.vscode
+
+# Github Copilot stuff
+.github
