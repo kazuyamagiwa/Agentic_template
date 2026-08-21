@@ -1,5 +1,7 @@
 # 🤖 Autonomous AI Agent Context & Memory Framework
 
+[English](README.md) | [日本語](README.ja.md)
+
 > **A token-optimized, multi-model template repository for AI-assisted software development.**  
 > Stop burning API credits, losing track of codebases mid-session, or spending hours writing manual test data.
 
