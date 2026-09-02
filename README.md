@@ -1,5 +1,28 @@
 # 🤖 Autonomous AI Agent Context & Memory Framework
 
+<!-- Project Topic Badges -->
+![AI Agent](https://img.shields.io/badge/AI--Agent-blue?style=flat-square)
+![LLM Memory](https://img.shields.io/badge/LLM--Memory-blue?style=flat-square)
+![Context Management](https://img.shields.io/badge/Context--Management-blue?style=flat-square)
+![Token Optimization](https://img.shields.io/badge/Token--Optimization-blue?style=flat-square)
+![AI Assisted Coding](https://img.shields.io/badge/AI--Assisted--Coding-blue?style=flat-square)
+![Agentic Workflow](https://img.shields.io/badge/Agentic--Workflow-blue?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt--Engineering-blue?style=flat-square)
+![LLM Framework](https://img.shields.io/badge/LLM--Framework-blue?style=flat-square)
+![Multi Model](https://img.shields.io/badge/Multi--Model-blue?style=flat-square)
+![AI Memory](https://img.shields.io/badge/AI--Memory-blue?style=flat-square)
+![Developer Tools](https://img.shields.io/badge/Developer--Tools-gray?style=flat-square)
+![AI Coding](https://img.shields.io/badge/AI--Coding-gray?style=flat-square)
+![Cursor Rules](https://img.shields.io/badge/Cursor--Rules-gray?style=flat-square)
+![GitHub Copilot](https://img.shields.io/badge/GitHub--Copilot-gray?style=flat-square)
+![Aider](https://img.shields.io/badge/Aider-gray?style=flat-square)
+![Automated Testing](https://img.shields.io/badge/Automated--Testing-green?style=flat-square)
+![Living Documentation](https://img.shields.io/badge/Living--Documentation-green?style=flat-square)
+![Project Template](https://img.shields.io/badge/Project--Template-green?style=flat-square)
+![Boilerplate](https://img.shields.io/badge/Boilerplate-green?style=flat-square)
+![Developer Experience](https://img.shields.io/badge/Developer--Experience-green?style=flat-square)
+
+
 [English](README.md) | [日本語](README.ja.md)
 
 > **A token-optimized, multi-model template repository for AI-assisted software development.**  
